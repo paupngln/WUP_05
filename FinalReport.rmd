@@ -67,6 +67,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+As per the data above, 
 
 # Discussion and Conclusion
 
