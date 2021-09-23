@@ -67,7 +67,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-As per the data above, 
+As per the data above, the fisher tests' p-value is very small, there is a huge difference between the chi sq test number which was about 15 and the DoF which is 1. We have to reject the null hypothesis. 
+
+The fisher test shows that if you take the meds you are 1.5X more likely to get aids rather than if you take the placebo. The data shows that the meds are ineffective. 
 
 # Discussion and Conclusion
 
