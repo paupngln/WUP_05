@@ -74,3 +74,12 @@ The fisher test shows that if you take the meds you are 1.5X more likely to get 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In conclusion, the data shows that in "females" group even if you take the drug,you are still or even more at risk in getting aids rather than the group who took the placebo. 
+
+As per the data that was shown above, the meds doesn't really help with the prevention of aids in the "female" group. More women who took the drug got sick rather than people who took the placebo
+
+
+the fisher tests' p-value is very small, there is a huge difference between the chi sq test number which was about 15 and the DoF which is 1. We have to reject the null hypothesis. 
+
+The fisher test shows that if you take the meds you are 1.5X more likely to get aids rather than if you take the placebo. The data shows that the meds are ineffective. 
